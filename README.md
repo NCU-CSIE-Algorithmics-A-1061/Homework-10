@@ -30,7 +30,7 @@ Modify the DAG-SHORTEST-PATHS procedure so that it finds a longest path in a dir
 5. Modify the Bellman-Ford algorithm to find the shortest-paths DAG.
 
 6. Exercises 24.3-1<br>
-Run Dijkstra's algorithm on the directed graph of Figure below, first using vertex s as the source and then using vertex z as the source. You should show the d and π values after each iteration of the while loop.
+Run Dijkstra's algorithm on the directed graph of the figure below, first using vertex s as the source and then using vertex z as the source. You should show the d and π values after each iteration of the while loop.
 
 ![p6_figure](https://i.imgur.com/7a0crNG.png)
 
