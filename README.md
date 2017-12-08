@@ -1,5 +1,17 @@
 # Homework 10
 
+## Groups
+
+- 第一組
+- 第五組
+- 第十二組
+- 第十五組
+- 第十六組
+- 第十八組
+- 第二十組
+
+## Problems
+
 1. Exercises 24.1-1<br>
 Run the Bellman-Ford algorithm on the directed graph below, using vertex z as the source. In each pass, relax edges in the order listing below, and show the d and π values after each pass. Now, change the weight of edge (z, x) to 4 and run the algorithm again, using s as the source.
     - (t, x), (t, y), (t, z), (x, t), (y, x), (y, z), (z, x), (z, s), (s, t), (s, y)
